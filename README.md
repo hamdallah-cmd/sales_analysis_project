@@ -1,3 +1,3 @@
 DATA ANALYSIS 
 
-data anaylysis course work 
+data analysis course work 
